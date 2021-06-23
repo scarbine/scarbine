@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sam.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning at Nashville Software School.
+- 
+- 🌱 I’m currently in a Full stack program at Nashville Software School.
+
+- Current languages: React, Javascript, HTML, CSS
 - 📫 How to reach me ...
 
 <!---
