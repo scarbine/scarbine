@@ -5,7 +5,7 @@
 - Current languages: React, Javascript, HTML, CSS
 - 📫 How to reach me ...
 
-Email : scarbine@me.com
+  Email : scarbine@me.com
 
 <!---
 scarbine/scarbine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
