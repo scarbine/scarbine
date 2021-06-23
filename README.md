@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam.
-- 
+
 - 🌱 I’m currently in a Full stack program at Nashville Software School.
 
 - Current languages: React, Javascript, HTML, CSS
